@@ -15,6 +15,7 @@ This project allows you to automatically fetch the transcript of a YouTube video
 - [openai](https://pypi.org/project/openai/) (for OpenRouter API usage)
 
 Install dependencies:
+
 ```bash
 pip install youtube-transcript-api openai
 ```
@@ -67,6 +68,7 @@ Summary: [AI-generated summary of the video]
 
 If you have ideas for improvements, please open an issue or submit a pull request!  
 Possible improvements include:
+
 - Support for more AI models or providers
 - Better error handling and user feedback
 - Option to save summaries to a file
@@ -77,4 +79,4 @@ Your feedback is welcome!
 
 ## License
 
-This project is for educational purposes. Please respect YouTube's and OpenRouter's
+This project is for educational purposes. Please respect YouTube's and OpenRouter's terms and conditions.
